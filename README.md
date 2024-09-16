@@ -1,5 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
 
 👋 Hi there! I'm Ziad, a second-year Software Engineering student at Western University. I'm passionate about programming and love exploring different aspects of software development, from writing clean code to designing robust systems. My GitHub is where I share my learning journey, projects, and experiments as I dive deeper into the world of technology.
 
